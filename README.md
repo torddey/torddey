@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **back-end developer** with a str
 - Become an expert in **Back-end development**.
 - Gain proficiency in **C#** and advanced back-end technologies.
 - Build scalable, secure, and efficient systems.
-- Explore opportunities in graduate studies abroad.
+- Build global business connections and opportunities.
 
 ## 🌟 Highlights
 
