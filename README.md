@@ -1,6 +1,6 @@
 # Hi there, I'm Evans Ampofo Torddey! 👋
 
-Welcome to my GitHub profile! I'm a passionate **back-end developer** with a strong foundation in **Python** and a growing expertise in **C#** and **.NET technologies**. I'm on an exciting journey of building impactful software solutions, with a focus on **clean code**, **scalability**, and **user-centric design**.
+Welcome to my GitHub! I'm a passionate **back-end developer** with a strong foundation in **Python** and a growing expertise in **C#** and **.NET technologies**. I'm on an exciting journey of building impactful software solutions, with a focus on **clean code**, **scalability**, and **user-centric design**.
 
 ## 🚀 About Me
 
