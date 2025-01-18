@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate **back-end developer** with a strong foun
 
 - **Email:** ea.torddey@gmail.com
 - **LinkedIn:** [Evans Ampofo Torddey](https://www.linkedin.com/in/evans-torddey)
-- **Portfolio:** [My Projects](https://github.com/torddey)
+- **Portfolio:** [My Projects](https://github.com/torddey?tab=repositories)
 
 ## ✨ Fun Fact
 
