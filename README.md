@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **back-end developer** with a strong foun
 - **🌱 Currently Learning:** Advanced **C#**, **.NET Core**, **Redis**, **Kafka**, and **Akka.NET**.
 - **👩‍💻 Experienced In:** Python (Django, Flask), JavaScript (Node.js, Express), MongoDB, PostgreSQL, and AWS services.
 - **🔭 Current Project:** Developing a hotel management web app with **Python Django** and integrating a virtual tour feature.
-- **💡 Interests:** Leveraging **AI** to build innovative tech solutions for the skincare industry.
+- **💡 Interests:** Leveraging **AI** to build innovative tech solutions.
 - **🎨 Background:** Graphic design enthusiast transitioning into tech to combine creativity with functionality.
 
 ## 💼 Professional Goals
