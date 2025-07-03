@@ -12,7 +12,7 @@
 class Developer:
     def __init__(self):
         self.name = "Evans Ampofo Torddey"
-        self.role = "Software Developer & AWS Cloud Architect"
+        self.role = "Software Developer & Cloud Engineer"
         self.languages = ["Python", "JavaScript", "TypeScript"]
         self.cloud_platforms = ["AWS", "Docker", "Kubernetes"]
         self.passions = ["Machine Learning", "Cloud Architecture", "Full-Stack Development"]
@@ -95,7 +95,7 @@ const myLife = {
     codeEditor: "VS Code with 20+ extensions",
     debuggingMusic: ["Lo-fi Hip Hop", "Afrobeats", "Classical"],
     favoriteAWSService: "Lambda (because serverless is life)",
-    currentlyReading: "System Design Interview books",
+    currentlyReading: "Cloud Engineering books",
     hobbies: ["Cloud architecture", "ML experiments", "Building side projects"]
 };
 ```
