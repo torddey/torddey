@@ -19,7 +19,7 @@ class Developer:
         self.current_focus = "Building scalable cloud solutions"
     
     def get_motto(self):
-        return "Turning coffee into cloud-native applications ☕️ → ☁️"
+        return "Code Is Creative"
 ```
 
 ---
@@ -59,7 +59,7 @@ class Developer:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torddey&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torddey&theme=tokyonight"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ graph TB
 ```javascript
 const myLife = {
     codeEditor: "VS Code with 20+ extensions",
-    debuggingMusic: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
+    debuggingMusic: ["Lo-fi Hip Hop", "Afrobeats", "Classical"],
     favoriteAWSService: "Lambda (because serverless is life)",
     currentlyReading: "System Design Interview books",
     hobbies: ["Cloud architecture", "ML experiments", "Building side projects"]
@@ -124,4 +124,4 @@ const myLife = {
 
 ---
 
-*⭐️ From [torddey]*
+*⭐️ From Torddey*
