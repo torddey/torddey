@@ -125,4 +125,4 @@ const myLife = {
 
 ---
 
-*⭐️ From Torddey*
+*⭐️ Evans Ampofo Torddey*
